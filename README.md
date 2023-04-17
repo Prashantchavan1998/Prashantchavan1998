@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantchavan1998" alt="prashantchavan1998" /></a> </p>
 
-- 🌱 I’m currently learning **JSP, Servlet, Hibernate, Spring, Spring boot, Microservices**
+- 🌱 I’m currently learning **JSP, Servlet, Hibernate, Spring, Spring boot, Microservices, React.Js, Angular.Js**
 
 - 💬 Ask me about **J2SE, J2EE**
 
